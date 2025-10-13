@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+*.zip
+dist/
+
+# Test files
+demo-usage.json
+
+# Don't commit purchase.html (it's on server)
+purchase.html
+
+# License generator (optional admin tool)
+license-generator.html
