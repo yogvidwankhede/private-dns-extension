@@ -6,6 +6,13 @@ Fast, secure, and private DNS resolver with ad-blocking and enhanced privacy pro
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Chrome Web Store](https://img.shields.io/badge/chrome-web%20store-orange)
 
+## 📦 Installation
+
+### From Chrome Web Store (Recommended)
+1. Visit [Chrome Web Store](#) (link coming soon)
+2. Click "Add to Chrome"
+3. Start using immediately!
+
 ## 🚀 Features
 
 ### Free Features
@@ -32,12 +39,6 @@ Use demo code: **DEMO-2025-TRIAL**
 - No credit card required
 - Full access to all premium features
 
-## 📦 Installation
-
-### From Chrome Web Store (Recommended)
-1. Visit [Chrome Web Store](#) (link coming soon)
-2. Click "Add to Chrome"
-3. Start using immediately!
 
 ### From Source (For Developers)
 1. Clone this repository:
