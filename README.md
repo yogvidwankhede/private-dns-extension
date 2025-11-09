@@ -9,7 +9,7 @@ Fast, secure, and private DNS resolver with ad-blocking and enhanced privacy pro
 ## 📦 Installation
 
 ### From Chrome Web Store (Recommended)
-1. Visit [Chrome Web Store](#https://chromewebstore.google.com/detail/private-dns/agmphbjkmidhennimplkfekmikacfhll)
+1. Visit [Chrome Web Store](https://chromewebstore.google.com/detail/private-dns/agmphbjkmidhennimplkfekmikacfhll)
 2. Click "Add to Chrome"
 3. Start using immediately!
 
