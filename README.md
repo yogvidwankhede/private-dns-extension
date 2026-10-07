@@ -6,6 +6,12 @@ Fast, secure, and private DNS resolver with ad-blocking and enhanced privacy pro
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Chrome Web Store](https://img.shields.io/badge/chrome-web%20store-orange)
 
+## Screenshot
+
+<img src="docs/screenshots/personal-dns-popup.webp" alt="The extension popup" width="360">
+
+*The extension popup.*
+
 ## 📦 Installation
 
 ### From Chrome Web Store (Recommended)
